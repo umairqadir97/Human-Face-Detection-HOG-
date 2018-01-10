@@ -1,4 +1,7 @@
-to run:
+HUMAN Face Detection System using HOG
+
+
+To run:
 
 $ python gather_annotations.py -h
 
